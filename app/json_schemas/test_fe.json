@@ -1,0 +1,33 @@
+{
+    "receptor": {
+        "numDocumento": "05888353-3",
+        "nombre": "jose marcelo hernandez cerritos",
+        "telefono": "76646560",
+        "correo": "jose.marcelo.1706@gmail.com"
+    },
+    "cuerpoDocumento": [
+        {
+            "cantidad": 1.0,
+            "codigo": "90588",
+            "descripcion": "MASILLA PLASTICA LIVIANA ASTRAL 726-1/4",
+            "precioUni": 10.93,
+            "ventaGravada": 10.93,
+            "ivaItem": 1.2574
+        }
+    ],
+    "documentoRelacionado": null,
+    "otrosDocumentos": null,
+    "ventaTercero": null,
+    "resumen": {
+        "descuNoSuj": 0,
+        "descuExtenta": 0,
+        "descuGravada": 0,
+        "porcentajeDescuento": 0,
+        "ivaRete1": 0,
+        "reteRenta": 0,
+        "saldoFavor": 0,
+        "condicionOperacion": 1
+    },
+    "extension": null,
+    "apendice": null
+}

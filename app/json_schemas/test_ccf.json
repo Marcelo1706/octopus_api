@@ -1,0 +1,42 @@
+{
+    "receptor": {
+        "nit": "06142802121050",
+        "nrc": "2163930",
+        "nombre": "ARMONICO , S.A. DE C.V.",
+        "codActividad": "62020",
+        "descActividad": "Consultorias y gestion de servicios informaticos",
+        "nombreComercial": "ARMONICO , S.A. DE C.V.",
+        "direccion": {
+            "departamento": "06",
+            "municipio": "06",
+            "complemento": "AV. XYZ COL SAN JERONIMO "
+        },
+        "telefono": "6009-9130",
+        "correo": "armonicosv@nomail.com"
+    },
+    "cuerpoDocumento": [
+        {
+            "cantidad": 2,
+            "codigo": "90588",
+            "descripcion": "Venta ABCD con CCF",
+            "precioUni": 154.87,
+            "ventaGravada": 309.74
+        }
+    ],
+    "documentoRelacionado": null,
+    "otrosDocumentos": null,
+    "ventaTercero": null,
+    "resumen": {
+        "descuNoSuj": 0,
+        "descuExtenta": 0,
+        "descuGravada": 0,
+        "porcentajeDescuento": 0,
+        "ivaRete1": 0,
+        "ivaPerci1": 0,
+        "reteRenta": 0,
+        "saldoFavor": 0,
+        "condicionOperacion": 1
+    },
+    "extension": null,
+    "apendice": null
+}
