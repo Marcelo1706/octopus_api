@@ -78,7 +78,7 @@ async def generate_credito_fiscal(
     return CreditoFiscal(
         identificacion=Identificacion(
             version=3,
-            ambiente=enums.Ambientes.PRUEBA,
+            ambiente=enums.Ambientes.PRODUCCION,
             tipoDte=enums.Dte.CREDITO_FISCAL,
             numeroControl=generate_numero_control(
                 enums.Dte.CREDITO_FISCAL, correlativo

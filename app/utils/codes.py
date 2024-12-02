@@ -1,6 +1,5 @@
+import time
 import uuid
-
-from app.config.cfg import NRC
 
 
 def generate_uuid():
@@ -10,5 +9,7 @@ def generate_uuid():
 
 def generate_numero_control(tipo_documento: str, correlativo: int):
     """Generate numero de control for DTE."""
+    timestamp = str(int(time.time()))[-8:]
+
     str_correlativo = str(correlativo).zfill(15)
-    return f"DTE-{tipo_documento}-0{NRC}-{str_correlativo}"
+    return f"DTE-{tipo_documento}-{timestamp}-{str_correlativo}"

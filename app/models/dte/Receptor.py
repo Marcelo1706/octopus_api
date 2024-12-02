@@ -15,7 +15,7 @@ class ReceptorBase(BaseModel):
 
 
 class ReceptorFE(ReceptorBase):
-    tipoDocumento: DocumentoReceptor = DocumentoReceptor.DUI
+    tipoDocumento: DocumentoReceptor | None = DocumentoReceptor.DUI
     numDocumento: str | None = None
 
 

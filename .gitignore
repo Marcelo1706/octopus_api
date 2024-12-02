@@ -143,3 +143,4 @@ dmypy.json
 firmador/
 firmador/temp/*
 data/
+*.bak

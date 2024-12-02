@@ -1,18 +1,19 @@
 {
     "receptor": {
-        "numDocumento": "05888353-3",
-        "nombre": "jose marcelo hernandez cerritos",
-        "telefono": "76646560",
-        "correo": "jose.marcelo.1706@gmail.com"
+        "tipoDocumento": "13",
+        "numDocumento": "00223528-7",
+        "nombre": "Víctor Manuel Santos Ascencio",
+        "telefono": "60299605",
+        "correo": "victorsantos0113.vs@gmail.com"
     },
     "cuerpoDocumento": [
         {
             "cantidad": 1.0,
-            "codigo": "90588",
-            "descripcion": "MASILLA PLASTICA LIVIANA ASTRAL 726-1/4",
-            "precioUni": 10.93,
-            "ventaGravada": 10.93,
-            "ivaItem": 1.2574
+            "codigo": "01",
+            "descripcion": "Cuota fija de Agua Potable Diciembre 2023",
+            "precioUni": 16.00,
+            "ventaGravada": 16.00,
+            "ivaItem": 1.8407
         }
     ],
     "documentoRelacionado": null,
